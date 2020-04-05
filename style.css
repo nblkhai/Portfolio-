@@ -1,0 +1,15 @@
+.navbar{
+   display: flex;
+   justify-content: center;
+   font-size: 16px;
+   font-family: sans-serif
+}
+
+.img{
+    width: 50px;
+    height: 50px;
+    transition: 0.3s;
+    display: flex;
+    justify-content: center;
+}
+
